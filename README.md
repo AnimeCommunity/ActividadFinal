@@ -29,7 +29,7 @@ src/
 │       └── University.java
 ```
 
-## 🧠 Tecnologías y conceptos aplicados
+## 🔧 Tecnologías y conceptos aplicados
 
 - Java 12
 - Programación orientada a objetos (POO)
@@ -41,7 +41,7 @@ src/
 - Uso de listas (ArrayList)
 - Buenas prácticas con modificadores de acceso y nombres de paquetes
 
-## Cómo ejecutar
+## 🚀 Cómo ejecutar
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/AnimeCommunity/ActividadFinal.git
@@ -52,8 +52,8 @@ git clone https://github.com/AnimeCommunity/ActividadFinal.git
 > [!NOTE]
 > No se requiere base de datos ni dependencias externas
 
-## Autores
+## ✍️ Autores
 - Santiago Pineda – @AnimeCommunity
 
-## Licencia
+## 📄 Licencia
 Este proyecto es de uso académico. Puedes usarlo, modificarlo o distribuirlo libremente con fines educativos.
