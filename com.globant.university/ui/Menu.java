@@ -22,13 +22,13 @@ public class Menu {
             option = scanner.nextInt();
 
             switch (option) {
-                case 1 -> service.printTeachers();
-                case 2 -> service.printClasses(true);
-                case 3 -> service.createStudent();
-                case 4 -> service.createClass();
-                case 5 -> service.listClassesByStudentId();
-                case 6 -> System.out.println("Exiting...");
-                default -> System.out.println("Invalid option.");
+                case 1 : service.printTeachers();
+                case 2 : service.printClasses(true);
+                case 3 : service.createStudent();
+                case 4 : service.createClass();
+                case 5 : service.listClassesByStudentId();
+                case 6 : System.out.println("Exiting...");
+                default : System.out.println("Invalid option.");
             }
         } while (option != 6);
     }
