@@ -52,6 +52,9 @@ git clone https://github.com/AnimeCommunity/ActividadFinal.git
 > [!NOTE]
 > No se requiere base de datos ni dependencias externas
 
+## Diagrama UML
+![Diagrama UML del proyecto Final Java Uniersidades](https://media.discordapp.net/attachments/1088517285737668669/1374737013625847859/Main.jpg?ex=682f231d&is=682dd19d&hm=f6a8a87eae9063595e426ef3a6a2dbf005e588bd65d3185c89e05c548f8fd9e0&=&format=webp&width=1240&height=834)
+
 ## ✍️ Autores
 - Santiago Pineda – @AnimeCommunity
 
